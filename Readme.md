@@ -8,7 +8,7 @@ This project implements a wine business chatbot using Flask and SentenceTransfor
 
     ```sh
     git clone https://github.com/yourusername/Bot.git
-    cd wine-business-chatbot
+    cd Bot
     ```
 
 2. **Create and activate a virtual environment**:
